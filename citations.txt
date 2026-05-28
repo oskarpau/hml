@@ -1,0 +1,111 @@
+[1] Vaswani A., Shazeer N., Parmar N., Uszkoreit J., Jones L., Gomez A. N., Kaiser Ł. u.
+ja Polosukhin I. Attention is All you Need. Advances in Neural Information Processing
+Systems. Köide 30. Curran Associates, Inc., 2017. https://proceedings.neurips.cc/paper_f
+iles/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html (25.05.2026).
+[2] Schulman J., Wolski F., Dhariwal P., Radford A. ja Klimov O. Proximal Policy
+Optimization Algorithms. en. arXiv:1707.06347 [cs.LG]. August 2017. DOI: 10.48
+550/arXiv.1707.06347. http://arxiv.org/abs/1707.06347 (27.05.2026).
+[3] Peebles W. ja Xie S. Scalable Diffusion Models with Transformers. arXiv:2212.09748
+[cs]. Märts 2023. DOI: 10.48550/arXiv.2212.09748. http://arxiv.org/abs/2212.09748
+(21.12.2025).
+[4] NVIDIA, Bjorck J., Castañeda F., Cherniadev N., Da X., Ding R., Fan L., Fang Y.,
+Fox D., Hu F., Huang S., Jang J., Jiang Z., Kautz J., Kundalia K., Lao L., Li Z., Lin Z.,
+Lin K., Liu G., Llontop E., Magne L., Mandlekar A., Narayan A., Nasiriany S., Reed S.,
+Tan Y. L., Wang G., Wang Z., Wang J., Wang Q., Xiang J., Xie Y., Xu Y., Xu Z.,
+Ye S., Yu Z., Zhang A., Zhang H., Zhao Y., Zheng R. ja Zhu Y. GR00T N1: An Open
+Foundation Model for Generalist Humanoid Robots. arXiv:2503.14734 [cs]. Märts 2025.
+DOI: 10.48550/arXiv.2503.14734. http://arxiv.org/abs/2503.14734 (29.03.2025).
+[5] Udandarao V., Prabhu A., Ghosh A., Sharma Y., Torr P. H. S., Bibi A., Albanie S. ja
+Bethge M. No ”Zero-Shot”Without Exponential Data: Pretraining Concept Frequency
+Determines Multimodal Model Performance. arXiv:2404.04125 [cs]. Oktoober 2024.
+DOI: 10.48550/arXiv.2404.04125. http://arxiv.org/abs/2404.04125 (21.12.2025).
+[6] Pollard N., Hodgins J., Riley M. ja Atkeson C. Adapting human motion for the control
+of a humanoid robot. Proceedings 2002 IEEE International Conference on Robotics
+and Automation (Cat. No.02CH37292). Köide 2. Mai 2002, 1390–1397 vol.2. DOI:
+10. 1109/ROBOT. 2002. 1014737. https://ieeexplore.ieee. org/ document/ 1014737/
+(21.12.2025).
+[7] Ayusawa K. ja Yoshida E. Motion Retargeting for Humanoid Robots Based on
+Simultaneous Morphing Parameter Identification and Motion Optimization. en. IEEE
+Transactions on Robotics 33.6 (detsember 2017), lk 1343–1357. DOI: 10.1109/TRO.201
+7.2752711. http://ieeexplore.ieee.org/document/8063558/ (21.12.2025).
+[8] Peng X. B., Abbeel P., Levine S. ja Panne M. v. d. DeepMimic: Example-Guided
+Deep Reinforcement Learning of Physics-Based Character Skills. ACM Transactions on
+42
+Graphics 37.4 (august 2018). arXiv:1804.02717 [cs], lk 1–14. DOI: 10.1145/3197517.3
+201311. http://arxiv.org/abs/1804.02717 (21.12.2025).
+[9] Wagener N., Kolobov A., Frujeri F. V., Loynd R., Cheng C.-A. ja Hausknecht M.
+MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control. arXiv:2208.07363
+[cs] version: 1. August 2022. DOI: 10.48550/arXiv.2208.07363. http://arxiv.org/abs/22
+08.07363 (21.12.2025).
+[10] Tessler C., Guo Y., Nabati O., Chechik G. ja Peng X. B. MaskedMimic: Unified PhysicsBased Character Control Through Masked Motion Inpainting. en. ACM Transactions on
+Graphics 43.6 (detsember 2024), lk 1–21. DOI: 10.1145/3687951. https://dl.acm.org/do
+i/10.1145/3687951 (21.12.2025).
+[11] Liao Q., Truong T. E., Huang X., Gao Y., Tevet G., Sreenath K. ja Liu C. K.
+BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided
+Diffusion. arXiv:2508.08241 [cs]. November 2025. DOI: 10.48550/arXiv.2508.08241.
+http://arxiv.org/abs/2508.08241 (21.12.2025).
+[12] Araujo J. P., Ze Y., Xu P., Wu J. ja Liu C. K. Retargeting Matters: General Motion
+Retargeting for Humanoid Motion Tracking. arXiv:2510.02252 [cs]. Oktoober 2025. DOI:
+10.48550/arXiv.2510.02252. http://arxiv.org/abs/2510.02252 (21.12.2025).
+[13] Yang L., Huang X., Wu Z., Kanazawa A., Abbeel P., Sferrazza C., Liu C. K., Duan R. ja
+Shi G. OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body
+Loco-Manipulation and Scene Interaction. arXiv:2509.26633 [cs]. Oktoober 2025. DOI:
+10.48550/arXiv.2509.26633. http://arxiv.org/abs/2509.26633 (16.02.2026).
+[14] Zakka K. Mink: Python inverse kinematics based on MuJoCo. original-date: 2024-02-
+26T05:53:29Z. Mai 2026. https://github.com/kevinzakka/mink (25.05.2026).
+[15] Ho E. S. L., Komura T. ja Tai C.-L. Spatial relationship preserving character motion
+adaptation. ACM Transactions on Graphics (TOG) 29.4 (juuli 2010), 33:1–33:8. DOI:
+10. 1145/ 1778765. 1778770. https:// dl. acm. org/ doi/ 10. 1145/ 1778765. 1778770
+(25.05.2026).
+[16] Si H. ja Gärtner K. Meshing Piecewise Linear Complexes by Constrained Delaunay
+Tetrahedralizations. en. Proceedings of the 14th International Meshing Roundtable. Toim.
+Hanks B. W. Berlin, Heidelberg: Springer, 2005, lk 147–163. DOI: 10.1007/3-540-2909
+0-7_9.
+[17] Carnegie Mellon University. CMU Graphics Lab Motion Capture Database. 2003. http:
+//mocap.cs.cmu.edu (13.03.2026).
+43
+[18] Bruce Hahne. The Motionbuilder-friendly BVH Conversion Release of CMU’s Motion
+Capture Database. 2010. https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture
+(13.03.2026).
+[19] NVIDIA jt. Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal
+Robot Learning. en. Version Number: 1. 2025. DOI: 10.48550/ARXIV.2511.04831.
+https://arxiv.org/abs/2511.04831 (27.05.2026).
+[20] Jiang H., Chen J., Bu Q., Chen L., Shi M., Zhang Y., Li D., Suo C., Chuang W.,
+Peng Z. ja Li H. WholeBodyVLA: Towards Unified Latent VLA for Whole-body Locomanipulation Control. en. Oktoober 2025. https://openreview.net/forum?id=OCJmVjyz
+N7 (27.05.2026).
+[21] Yang A., Li A., Yang B., Zhang B., Hui B., Zheng B., Yu B., Gao C., Huang C., Lv C.,
+Zheng C., Liu D., Zhou F., Huang F., Hu F., Ge H., Wei H., Lin H., Tang J., Yang J.,
+Tu J., Zhang J., Yang J., Yang J., Zhou J., Zhou J., Lin J., Dang K., Bao K., Yang K.,
+Yu L., Deng L., Li M., Xue M., Li M., Zhang P., Wang P., Zhu Q., Men R., Gao R.,
+Liu S., Luo S., Li T., Tang T., Yin W., Ren X., Wang X., Zhang X., Ren X., Fan Y.,
+Su Y., Zhang Y., Zhang Y., Wan Y., Liu Y., Wang Z., Cui Z., Zhang Z., Zhou Z. ja Qiu Z.
+Qwen3 Technical Report. arXiv:2505.09388 [cs.CL]. Mai 2025. DOI: 10.48550/arXiv.2
+505.09388. http://arxiv.org/abs/2505.09388 (25.05.2026).
+[22] Skean O., Arefin M. R., Zhao D., Patel N. N., Naghiyev J., LeCun Y. ja Shwartz-Ziv R.
+Layer by Layer: Uncovering Hidden Representations in Language Models. en. Juuni 2025.
+https://openreview.net/forum?id=WGXb7UdvTX (25.05.2026).
+[23] Sun Q., Pickett M., Nain A. K. ja Jones L. Transformer layers as painters. Proceedings
+of the Thirty-Ninth AAAI Conference on Artificial Intelligence and Thirty-Seventh
+Conference on Innovative Applications of Artificial Intelligence and Fifteenth Symposium
+on Educational Advances in Artificial Intelligence. Köide 39. AAAI’25/IAAI’25/EAAI’25.
+AAAI Press, veebruar 2025, lk 25219–25227. DOI: 10.1609/aaai.v39i24.34708. https:
+//doi.org/10.1609/aaai.v39i24.34708 (25.05.2026).
+[24] Wang S. ja Kanwar P. BFloat16: The secret to high performance on Cloud TPUs. en-US.
+August 2019. https://cloud.google.com/blog/products/ai-machine-learning/bfloat16-the-s
+ecret-to-high-performance-on-cloud-tpus (25.05.2026).
+[25] Su J., Lu Y., Pan S., Murtadha A., Wen B. ja Liu Y. RoFormer: Enhanced Transformer
+with Rotary Position Embedding. arXiv:2104.09864 [cs.CL]. November 2023. DOI:
+10.48550/arXiv.2104.09864. http://arxiv.org/abs/2104.09864 (25.05.2026).
+44
+[26] Lewis P., Perez E., Piktus A., Petroni F., Karpukhin V., Goyal N., Küttler H., Lewis M.,
+Yih W.-t., Rocktäschel T., Riedel S. ja Kiela D. Retrieval-Augmented Generation for
+Knowledge-Intensive NLP Tasks. Advances in Neural Information Processing Systems.
+Köide 33. Curran Associates, Inc., 2020, lk 9459–9474. https://proceedings.neurips.c
+c/paper_files/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html
+(25.05.2026).
+[27] Luo Z., Yuan Y., Wang T., Li C., Castañeda F., Chen S., Cao Z.-A., Li J., Minor D., Ben Q.,
+Park J., Sami D., Wang Z., Da X., Ding R., Hogg C., Song L., Lim E., Jeong E., He T., Xue
+H., Xiao W., Yuen S., Kautz J., Chang Y., Iqbal U., Fan L. ” ja Zhu Y. SONIC: Supersizing
+Motion Tracking for Natural Humanoid Whole-Body Control. arXiv:2511.07820 [cs.RO].
+Mai 2026. DOI: 10. 48550/ arXiv. 2511. 07820. http:// arxiv. org/ abs/ 2511. 07820
+(27.05.2026)
